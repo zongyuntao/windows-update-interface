@@ -1,4 +1,4 @@
-[预览链接](https://zongyuntao.github.io/windows-update-interface/)[preview](https://zongyuntao.github.io/windows-update-interface/)
+[链接](https://zongyuntao.github.io/windows-update-interface/)[link](https://zongyuntao.github.io/windows-update-interface/)
 
 ### 使用说明
 
