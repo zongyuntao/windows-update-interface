@@ -1,4 +1,4 @@
-[点击预览](https://zongyuntao.github.io/windows-update-interface/)[preview](https://zongyuntao.github.io/windows-update-interface/)
+[预览链接](https://zongyuntao.github.io/windows-update-interface/)[preview](https://zongyuntao.github.io/windows-update-interface/)
 
 ### 使用说明
 
@@ -13,4 +13,5 @@
 2. Let your boss think your computer is updating, so you can play with your phone
 3. Open this on your co-worker's computer to make him think it's broken
 
+### 预览preview
 ![预览preview](https://github.com/zongyuntao/windows-update-interface/assets/39944881/1bc3d4bb-a3cf-4a8e-abd6-9882bef2b093)
